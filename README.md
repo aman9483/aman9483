@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFxc7dSVOM/ZedSkipu2kczLBpE0oYkyw/edit?category=tAEAieI2jOU)
+![Header](./github-header-image.jpeg.jpg)
 <h1 align="center">Hola 👋, I'm Aman Verma</h1>
 <h3 align="center">A passionate full Stack Web developer from India</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
