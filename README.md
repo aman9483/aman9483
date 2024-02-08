@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/yoaman17" target="blank"><img src="https://img.shields.io/twitter/follow/yoaman17?logo=twitter&style=for-the-badge" alt="yoaman17" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 👨‍💻 All of my projects are available at [https://aman-verma-potfolio.vercel.app/](https://aman-verma-potfolio.vercel.app/)
 
