@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aman-verma-potfolio.vercel.app/](https://aman-verma-potfolio.vercel.app/)
 
-- 💬 Ask me about **jaavscript , reactjs, expressjs, mongoDB,Kotlin, JetPack Compose, Android Studio, Sql**
+- 💬 Ask me about **jaavscript , reactjs, React Native, expressjs, mongoDB, Kotlin, JetPack Compose, Android Studio, Sql**
 
 - 📫 How to reach me **amankumarverma251@gmail.com**
 
