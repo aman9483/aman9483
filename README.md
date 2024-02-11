@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [https://aman-verma-potfolio.vercel.app/](https://aman-verma-potfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://aman-verma-potfolio.vercel.app/](https://aman-verma.vercel.app/)
 
 - 💬 Ask me about **jaavscript , reactjs, React Native, expressjs, mongoDB, Kotlin, JetPack Compose, Android Studio, Sql**
 
