@@ -38,6 +38,17 @@
 
 ---
 
+### 🚀 Projects Showcase
+
+Here's a glimpse of my featured projects. Check them out:
+
+- [**Coffee Cove**](https://github.com/Aman9483/coffee-cove) - A dynamic coffee shop application featuring an intuitive user interface, real-time order tracking, and an integrated menu management system. Designed for coffee enthusiasts, this app offers a seamless user experience from browsing to checkout, ensuring every cup is just a click away.
+
+- [**UrbanValley**](https://github.com/Aman9483/job-junction) - A comprehensive clothing store application designed to deliver an exceptional shopping experience. With features like advanced filtration for categories (Men, Women, Kids), customizable size and price range options, and a responsive design, UrbanValley is a one-stop-shop for trendy and stylish apparel. The app supports real-time inventory updates and smooth navigation to enhance user engagement.
+
+- [**StayEase**](https://github.com/Aman9483/job-junction) - A modern hotel room booking solution with advanced search and filtering options. StayEase simplifies the process of finding, booking, and managing accommodations with features like user authentication, dynamic room availability updates, and a streamlined payment gateway. The platform supports both individual travelers and corporate clients, making it easy to explore and book rooms with just a few clicks.
+
+
 ### 🛠 Languages and Tools
 
 <p align="center">
@@ -117,39 +128,7 @@
 
 ---
 
-### 🎨 More Customization & Interactive Widgets
 
-- **Profile Achievements**: Add your badges and achievements by visiting [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy).
-- **Spotify Integration**: Show the currently playing track on your Spotify account using [Spotify Readme](https://github.com/kittinan/spotify-github-profile).
-- **Visitor Counter**: Include a custom visitor counter to see how many people visited your profile, using [Visitor Badge](https://visitor-badge.glitch.me/).
-
-### 💡 Ideas for Enhancement
-- Add 3D animations or interactive graphics with [Lottie Files](https://lottiefiles.com/) for a unique touch.
-- Include custom GitHub Activity Graphs with different color themes from [GitHub Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph).
-- Embed a blog or article section to showcase your latest publications or posts.
-
-<div align="center">
-  <img src="https://github.com/Aman9483/aman9483/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
-### 🚀 Projects Showcase
-
-Here's a glimpse of my featured projects. Check them out:
-
-- [Project 1: Coffee Cove](https://github.com/Aman9483/coffee-cove) - A dynamic coffee shop application with real-time order tracking and a stunning UI.
-- [Project 2: Job Junction](https://github.com/Aman9483/job-junction) - A complete job board solution for tech and non-tech positions, with advanced filtering and user profiles.
-
----
-
-### 🌟 Testimonials & Feedback
-
-**"Aman’s work is highly professional and impactful. He has a keen eye for detail and consistently delivers top-notch quality."** - [Client Name]
-
-**"One of the most talented developers I've worked with! Amazing expertise in frontend and backend development."** - [Colleague Name]
-
----
 
 ### 🎯 Aim & Goals
 
