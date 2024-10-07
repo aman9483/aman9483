@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+I'm+Aman+Verma!;" />
 </h1>
-<h3 align="center">🚀A passionate full Stack Web & Mobile App Developer from India 🚀 </h3>
+<h3 align="center">🚀A passionate full Stack Web Developer from India 🚀 </h3>
 
 
 
@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/yoaman17" target="blank"><img src="https://img.shields.io/twitter/follow/yoaman17?logo=twitter&style=for-the-badge" alt="yoaman17" /></a> </p>
 
-- 🌱 I’m currently learning **Ai/ ML**
+- 🌱 I’m currently Building Projects  **Using Next.Js**
 
-- 👨‍💻 All of my projects are available at [https://aman-verma-potfolio.vercel.app/](https://aman-verma.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://aman-verma-potfolio.vercel.app/](https://aman-s-potfolio-ty4r.vercel.app/)
 
-- 💬 Ask me about **jaavscript , reactjs, React Native, expressjs, mongoDB, Kotlin, JetPack Compose, Android Studio, Sql**
+- 💬 Ask me about **Html, Css , jaavscript , reactjs, NextJs,Framer Motion, NodeJs expressjs, mongoDB, Mysql , PostgresSQL, Sql**
 
 - 📫 How to reach me **amankumarverma251@gmail.com**
 
