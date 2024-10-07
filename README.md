@@ -132,6 +132,5 @@ Here's a glimpse of my featured projects. Check them out:
 
 ### 🎯 Aim & Goals
 
-- Contributing more to **Open Source** projects.
-- Building projects that impact a large audience.
-- Enhancing knowledge in **Machine Learning** and **Data Science**.
+- Contributing  to **Open Source** projects.
+- Enhancing knowledge in **Web Development**.
