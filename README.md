@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently building projects using **Next.js**.
+- 🌱 I’m currently building projects using **Mern Stack**.
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, Framer Motion, Node.js, Express, MongoDB, MySQL, PostgreSQL**.
 - 👨‍💻 My portfolio is available at [Portfolio Website](https://aman-s-potfolio-ty4r.vercel.app/)
 - 📫 Reach me at **amankumarverma251@gmail.com**
@@ -42,11 +42,14 @@
 
 Here's a glimpse of my featured projects. Check them out:
 
-- [**Coffee Cove**](https://github.com/Aman9483/coffee-cove) - A dynamic coffee shop application featuring an intuitive user interface, real-time order tracking, and an integrated menu management system. Designed for coffee enthusiasts, this app offers a seamless user experience from browsing to checkout, ensuring every cup is just a click away.
+- [**Yumzo**](https://github.com/aman9483/Yumzo) -🚀Yumzo is a high-performance food delivery app that provides a seamless user experience with fast, reliable order tracking and a sleek interface. It lets users explore a wide variety of cuisines and place orders effortlessly. Built with modern technologies, Yumzo guarantees a smooth experience from browsing to checkout.
 
-- [**UrbanValley**](https://github.com/Aman9483/job-junction) - A comprehensive clothing store application designed to deliver an exceptional shopping experience. With features like advanced filtration for categories (Men, Women, Kids), customizable size and price range options, and a responsive design, UrbanValley is a one-stop-shop for trendy and stylish apparel. The app supports real-time inventory updates and smooth navigation to enhance user engagement.
+- [**UrbanValley**](https://github.com/Aman9483/job-junction) - 🚀A comprehensive clothing store application designed to deliver an exceptional shopping experience. With features like advanced filtration for categories (Men, Women, Kids), customizable size and price range options, and a responsive design, UrbanValley is a one-stop-shop for trendy and stylish apparel. The app supports real-time inventory updates and smooth navigation to enhance user engagement.
 
-- [**StayEase**](https://github.com/Aman9483/job-junction) - A modern hotel room booking solution with advanced search and filtering options. StayEase simplifies the process of finding, booking, and managing accommodations with features like user authentication, dynamic room availability updates, and a streamlined payment gateway. The platform supports both individual travelers and corporate clients, making it easy to explore and book rooms with just a few clicks.
+- [**StayEase**](https://stayease01.netlify.app/) - 🚀A modern hotel room booking solution with advanced search and filtering options. StayEase simplifies the process of finding, booking, and managing accommodations with features like user authentication, dynamic room availability updates, and a streamlined payment gateway. The platform supports both individual travelers and corporate clients, making it easy to explore and book rooms with just a few clicks.
+  
+-  [**CoffeeCove**](https://coffeecove.vercel.app/) -🚀Coffee Cove is a frontend web application crafted for coffee enthusiasts, showcasing a sleek and interactive user interface. Built using ReactJS, Framer Motion, and Tailwind CSS, it provides a visually appealing experience for exploring various coffee blends.. This project highlights my expertise in creating dynamic & responsive ui .
+
 
 
 ### 🛠 Languages and Tools
